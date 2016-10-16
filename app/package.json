@@ -1,0 +1,13 @@
+{
+  "name": "electronaudioplayer",
+  "version": "0.0.0",
+  "description": "An electron-vue project",
+  "main": "electron.js",
+  "dependencies": {
+    "vue": "^2.0.1",
+    "vue-electron": "^1.0.0",
+    "vue-resource": "^1.0.3"
+  },
+  "devDependencies": {},
+  "author": "James Jarvis <jamespjarvis@gmail.com>"
+}
